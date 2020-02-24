@@ -1,24 +1,13 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Build Page for video_maker and user
++ video_maker:
+  - homepage
+  - timeline: crud post
+  - video: upload, edit video
+  - send post định kì(cronjob): chúc sinh nhật, gửi lời cảm ơn
++ user:
+  - homepage
+  - timeline: xem post, like, comment,
+  - tương tác: follow video_maker
+  - video: mua video,  xem video 
+ 
+ 
